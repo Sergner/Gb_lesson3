@@ -30,3 +30,7 @@
 [![music](https://almaty.tv/news_photo/1638002982_news_b.webp)](https://youtu.be/K5DALXwOe0s?si=Np6KiCGQESoPaTxk)
 
 <img src=https://moon.kz/upload/iblock/61a/5vpg05ysvar35qf8ssfw62l2ltujc100.jpg width=300>
+
+- 1 Строка
+- 2 Строка
+- 3 Строка
